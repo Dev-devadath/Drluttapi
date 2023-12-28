@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dr_luttapi
-- 👀 I’m interested in coding, programming , AI , Certified ethical h@cker
-- 🌱 I’m currently learning bug bounty and programming
+- 👋 Hi, I’m Devadath
+- 👀 I’m interested in coding, programming ,AI, Full stack Developmer
+- 🤖 Also Doing some crazy web-developments 
 - 💞️ I’m looking to collaborate on any of these tech feild
 - 📫 How to reach me ...    Check out the website https://aboutme-kannan-drluttapi.carrd.co/
 
